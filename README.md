@@ -4,7 +4,7 @@
 **Course:** DOCKER CERTIFICATION TRAINING\
 **Duration:** 24 hours
 
-## Lessons
+## Lessons serially
 
 1. **Course Introduction**
 
